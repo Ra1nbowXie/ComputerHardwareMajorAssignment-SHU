@@ -1,0 +1,2 @@
+# ComputerHardwareMajorAssignment-SHU
+上海大学计算机硬件综合大型作业：乒乓球控制器
